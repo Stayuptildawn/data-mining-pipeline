@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1176400297.svg)](https://doi.org/10.5281/zenodo.18917187)
 
 # Data Mining Pipeline
 
